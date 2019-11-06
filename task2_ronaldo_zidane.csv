@@ -1,0 +1,43 @@
+season,competition,date,player,penalyt_scored
+2019/2000,SerieA,10-30-19,ronaldo,yes
+2018/2019,EuropeanQualifiers,10-14-19,ronaldo,yes
+2019/2000,SerieA,09-21-19,ronaldo,yes
+2018/2019,EuropeanQualifiers,09-10-19,ronaldo,yes
+2018/2019,UEFAChampionsLeague,03-12-19,ronaldo,yes
+2018/2019,SerieA,01-27-19,ronaldo,yes
+2018/2019,SerieA,12-29-18,ronaldo,yes
+2018/2019,SerieA,12-15-18,ronaldo,yes
+2018/2019,SerieA,12-01-18,ronaldo,yes
+2018/2019,SerieA,10-27-18,ronaldo,yes
+2017/2018,WorldCup,06-15-18,ronaldo,yes
+2017/2018,UEFAChampionsLeague,04-11-18,ronaldo,yes
+2017/2018,UEFAChampionsLeague,02-14-18,ronaldo,yes
+2017/2018,LaLiga,01-27-18,ronaldo,yes
+2017/2018,LaLiga,01-27-18,ronaldo,yes
+2018/2019,SerieA,01-21-19,ronaldo,no
+2017/2018,WorldCup,06-25-18,ronaldo,no
+2017/2018,LaLiga,11-25-17,ronaldo,no
+2016/2017,WorldCupQualificationEurope,11-13-16,ronaldo,no
+2016/2017,LaLiga,10-29-16,ronaldo,no
+2015/2016,EURO,06-18-16,ronaldo,no
+2015/2016,InternationalFriendlies,03-25-16,ronaldo,no
+2015/2016,LaLiga,03-20-16,ronaldo,no
+2015/2016,LaLiga,02-21-16,ronaldo,no
+2015/2016,LaLiga,12-30-15,ronaldo,no
+2014/2015,LaLiga,05-09-15,ronaldo,no
+2014/2015,LaLiga,04-18-15,ronaldo,no
+2014/2015,UEFAChampionsLeague,10-01-14,ronaldo,no
+2013/2014,UEFAChampionsLeague,12-10-13,ronaldo,no
+2005/2006,World Cup 2006,07-09-06,zidane,yes
+2005/2006,World Cup 2006,07-05-06,zidane,yes
+2005/2006,LaLiga,04-23-06,zidane,yes
+2005-2006,LaLiga,01-15-06,zidane,yes
+2004/2005,LaLiga,01-05-05,zidane,yes
+2003/2004,EURO ,01-13-04,zidane,yes
+2002/2003,EuropeanQualifiers,03-29-03,zidane,yes
+2000/2001,International Friendlies,03-24-01,zidane,yes
+2000/2001,SerieA,10-15-00,zidane,yes
+1999/2000,EURO ,06-28-00,zidane,yes
+1996/1997,SerieA,04-06-97,zidane,no
+2005-2006,LaLiga,10-23-05,zidane,no
+2000/2001,SerieA,02-11-01,zidane,no
