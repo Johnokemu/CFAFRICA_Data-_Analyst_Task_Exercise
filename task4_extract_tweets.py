@@ -17,7 +17,7 @@ auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth,wait_on_rate_limit=True)
 #####United Airlines
 # Open/Create a file to append data
-csvFile = open('SayNoToXenophobia.csv', 'a')
+csvFile = open('task4SayNoToXenophobia.csv', 'a')
 #Use csv Writer
 csvWriter = csv.writer(csvFile)
 
